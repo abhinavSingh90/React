@@ -1,0 +1,11 @@
+#mydiv{
+    width:200px;
+    height:300px;
+    color:black;
+    background-color: aquamarine;
+    text-align: center;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    margin:auto;
+}
